@@ -14,10 +14,10 @@ Interactive Streamlit web application
 
 Technologies Used:
 
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
+Python,
+Pandas, NumPy,
+Scikit-learn,
+Matplotlib, Seaborn,
 Streamlit
 
 Key Insights:
