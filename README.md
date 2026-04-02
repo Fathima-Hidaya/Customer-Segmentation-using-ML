@@ -6,10 +6,10 @@ This project performs customer segmentation using KMeans clustering. The goal is
 
 Features:
 
-Data preprocessing and feature engineering
-Customer segmentation using KMeans clustering
-Elbow method to determine optimal clusters
-Visualization using PCA
+Data preprocessing and feature engineering-
+Customer segmentation using KMeans clusterinG-
+Elbow method to determine optimal clusters-
+Visualization using PCA-
 Interactive Streamlit web application
 
 Technologies Used:
